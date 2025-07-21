@@ -3,6 +3,6 @@ var lines = input.split('\n');
 
 var A = parseInt(lines.shift());
 var B = parseInt(lines.shift());
-var SOMA = A + B;
+var SOMA = A + A;
 
 console.log("SOMA = " + SOMA);
