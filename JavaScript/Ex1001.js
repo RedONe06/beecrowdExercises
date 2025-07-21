@@ -5,4 +5,6 @@ let A = parseInt(lines.shift());
 let B = parseInt(lines.shift());
 let X = A + B;
 
+let a = '';
+
 console.log("X = " + X);
